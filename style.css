@@ -22,7 +22,7 @@ body{
 #conf{
     display: block;
     margin: 0px auto;
-    max-width: 40%;
+    max-width: 70%;
 }
 #h3pai{
     padding: 40px;
@@ -133,7 +133,7 @@ p{
     #conf{
         display: block;
         margin: 0px auto;
-        max-width: 60%;
+        max-width: 80%;
     }
     #h3pai{
         padding: 13.3px;
